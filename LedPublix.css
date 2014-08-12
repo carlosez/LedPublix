@@ -1,10 +1,26 @@
 @charset "UTF-8";
+
+#canvasNavigation {
+  width: 1050;
+  height:50;
+   text-align:center;
+}
+#canvasAboutUs {
+  width:1050px;
+  height:334px;
+   text-align:center;
+}
+
+canvas {
+   display: inline;
+}
+
 body {
 	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-	background-color: #4E5869;
+	background-color: #333515;
 	margin: 0;
 	padding: 0;
-	color: #000;
+	color: #121316;
 }
 
 /* ~~ Element/tag selectors ~~ */
